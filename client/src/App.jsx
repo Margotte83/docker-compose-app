@@ -17,8 +17,12 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Orchestrer avec docker compose!</h1>
+      <p>C'est long!</p>
       </header>
       <h1>Orchestrer avec docker compose!</h1>
+      <p>C'est long!</p>
+      <p>C'est long!</p>
     </div>
   );
 }
